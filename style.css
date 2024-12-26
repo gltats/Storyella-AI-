@@ -56,6 +56,30 @@ h1
 	font-size: 1.2rem;
 }
 
+.input-group-text
+{
+	background: #2f127ea5;
+	color: white;
+	border: none;
+	font-size: 1.4rem;
+}
+
+#user-prompt
+{
+	background: #f0eeff;
+	color: #2f127ea5;
+	box-shadow: 0 0 3px 0 #d6d6de9c;
+	font-size: 1.2rem;
+}
+
+.btn
+{
+	background: #2f127ea5;
+	border: rgba(32, 33, 34, 0.788) 1px solid;
+	box-shadow: 0 0 3px 0 #d6d6de9c;
+	font-size: 1.2rem;
+}
+
 
 .bubble-container {
     position: fixed;
